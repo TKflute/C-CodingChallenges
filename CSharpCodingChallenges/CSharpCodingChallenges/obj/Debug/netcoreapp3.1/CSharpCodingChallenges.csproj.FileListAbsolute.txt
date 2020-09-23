@@ -1,0 +1,11 @@
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\bin\Debug\netcoreapp3.1\CSharpCodingChallenges.exe
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\bin\Debug\netcoreapp3.1\CSharpCodingChallenges.deps.json
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\bin\Debug\netcoreapp3.1\CSharpCodingChallenges.runtimeconfig.json
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\bin\Debug\netcoreapp3.1\CSharpCodingChallenges.runtimeconfig.dev.json
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\bin\Debug\netcoreapp3.1\CSharpCodingChallenges.dll
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\bin\Debug\netcoreapp3.1\CSharpCodingChallenges.pdb
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\obj\Debug\netcoreapp3.1\CSharpCodingChallenges.csprojAssemblyReference.cache
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\obj\Debug\netcoreapp3.1\CSharpCodingChallenges.AssemblyInfoInputs.cache
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\obj\Debug\netcoreapp3.1\CSharpCodingChallenges.AssemblyInfo.cs
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\obj\Debug\netcoreapp3.1\CSharpCodingChallenges.dll
+C:\Users\tarak\source\repos\CSharpCodingChallenges\CSharpCodingChallenges\obj\Debug\netcoreapp3.1\CSharpCodingChallenges.pdb
